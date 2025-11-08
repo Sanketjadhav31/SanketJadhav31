@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning (3rd Semester)**
-- 💻 Building **[CodeBattle](https://github.com/SanketJadhav31/CodeBattle)** – Real-time Competitive Coding Platform  
+- 💻 Building **[CodeBattle](https://codebattlefrontend.netlify.app)** – Real-time Competitive Coding Platform  
 - 🤖 Exploring **Machine Learning, Deep Learning, and LLMs**
 - ☁️ Learning **Docker, Nginx, Cloud Deployment (Oracle Cloud, Render)**
 - 🧑‍💻 Contributing to **Open Source & GSoC 2025 Projects**
