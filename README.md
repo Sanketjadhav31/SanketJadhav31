@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 #### 💡 Programming Languages  
-Java • Python • JavaScript • C++  
+Java • Python • JavaScript 
 
 #### 🧩 Frontend  
 React • Tailwind CSS • Framer Motion • Socket.io  
