@@ -68,9 +68,8 @@ Scikit-learn • TensorFlow • OpenCV • Pandas • NumPy
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanketjadhav31/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:sanketjadhav315@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/SanketJadhav31"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/sanket-jadhav-625861312"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sj546400@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
