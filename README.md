@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Jadhav</h1>
 
 <h3 align="center">
-Backend Engineer • AI/ML Developer • Open Source Contributor
+Open Source Contributor • AI/ML Developer • Backend Engineer
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@ Backend Engineer • AI/ML Developer • Open Source Contributor
 
 ☁️ Backend Engineer focused on Cloud Infrastructure, Distributed Systems and Production AI Applications.
 
-🌍 Open Source Contributor to the **P4 Language Foundation**
+🌍 Open Source Contributor
 
 💻 Creator of **CodeBattle**, a real-time competitive coding platform.
 
@@ -59,24 +59,16 @@ Backend Engineer • AI/ML Developer • Open Source Contributor
 
 # 💼 Open Source Contributions
 
-## 🚀 P4 Language Foundation
+Contributing to large-scale open source projects by improving compiler behavior, runtime reliability and system correctness through production-quality engineering and rigorous testing.
 
-### ✔ PI Repository
+### Highlights
 
-- Merged high-impact production fix for direct resource validation.
-- Added regression tests for runtime validation.
-- Improved table configuration validation logic.
-
-### ✔ P4 Compiler (p4c)
-
-- Improved compiler handling of untyped `{#}` literals.
-- Added compiler validation improvements.
-
-### ✔ Behavioral Model
-
-- Added defensive bounds validation.
-- Prevented invalid device access.
-- Improved runtime reliability.
+- 🚀 Improved validation logic to strengthen runtime correctness and prevent invalid system states.
+- 🛡️ Enhanced defensive validation and boundary checks to improve application reliability.
+- ⚙️ Contributed compiler improvements for better language semantics and type inference.
+- 🧪 Designed and implemented regression tests to ensure long-term stability and prevent future regressions.
+- 🔍 Investigated complex issues, identified root causes and delivered maintainable, production-ready solutions.
+- 🤝 Collaborated with maintainers through code reviews, feedback iterations and upstream contributions.
 
 ---
 
@@ -92,7 +84,7 @@ Backend Engineer • AI/ML Developer • Open Source Contributor
 
 ### Highlights
 
-- 🚀 2000+ concurrent users
+- 🚀 10000+ concurrent users
 - ⚡ Live Coding Battles
 - 🏆 ELO Matchmaking
 - 💻 Online Code Execution
@@ -260,7 +252,7 @@ Backend Engineer • AI/ML Developer • Open Source Contributor
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sj546400@gmail.com">
+  <a href="mailto:sanket3280@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
