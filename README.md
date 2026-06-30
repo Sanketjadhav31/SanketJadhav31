@@ -1,83 +1,282 @@
-<!-- 👋 Sanket Jadhav | AI/ML Engineer & Full Stack Developer -->
+<!-- ===================================================== -->
+<!--                  GitHub Profile README                -->
+<!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/SanketJadhav31">Sanket Jadhav</a></h1>
-<h3 align="center">🚀 Passionate AI/ML Engineer | Full Stack Developer | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Sanket Jadhav</h1>
+
+<h3 align="center">
+Backend Engineer • AI/ML Developer • Open Source Contributor
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanketJadhav31&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SanketJadhav31?label=Followers&style=flat-square" alt="followers count" />
-  <img src="https://img.shields.io/github/stars/SanketJadhav31?label=Total%20Stars&style=flat-square" alt="total stars" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI%2FML+Developer;Open+Source+Contributor;Distributed+Systems+Enthusiast;Building+Production+Scale+Applications" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SanketJadhav31">
+<img src="https://komarev.com/ghpvc/?username=SanketJadhav31&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/SanketJadhav31?tab=followers">
+<img src="https://img.shields.io/github/followers/SanketJadhav31?style=flat-square"/>
+</a>
+
+<a href="https://github.com/SanketJadhav31">
+<img src="https://img.shields.io/github/stars/SanketJadhav31?style=flat-square"/>
+</a>
+
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning (3rd Semester)**
-- 💻 Building **[CodeBattle](https://codebattles.in)** – Real-time Competitive Coding Platform  
-- 🤖 Exploring **Machine Learning, Deep Learning, and LLMs**
-- ☁️ Learning **Docker, Nginx, Cloud Deployment (Oracle Cloud, Render)**
-- 🧑‍💻 Contributing to **Open Source & GSoC 2025 Projects**
-- ⚡ Fun Fact: *I debug faster than I cook Maggi 🍜*
+# 🚀 About Me
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+
+☁️ Backend Engineer focused on Cloud Infrastructure, Distributed Systems and Production AI Applications.
+
+🌍 Open Source Contributor to the **P4 Language Foundation**
+
+💻 Creator of **CodeBattle**, a real-time competitive coding platform.
+
+🤖 Building scalable AI applications using **RAG**, **LLMs**, **FastAPI** and **Vector Databases**.
+
+🧠 Solved **300+ LeetCode Problems**
 
 ---
 
-### 🛠️ Tech Stack
+# 🚀 Current Focus
 
-#### 💡 Programming Languages  
-Java • Python • JavaScript 
-
-#### 🧩 Frontend  
-React • Tailwind CSS • Framer Motion • Socket.io  
-
-#### ⚙️ Backend  
-Node.js • Express.js • MongoDB • Redis • Bull Queue  
-
-#### 🐳 DevOps & Cloud  
-Docker • Nginx • PM2 • Render • Oracle Cloud  
-
-#### 🧠 AI / ML Tools  
-Scikit-learn • TensorFlow • OpenCV • Pandas • NumPy  
+- ⚔️ Building **CodeBattle**
+- 🌍 Contributing to **P4 Language Foundation**
+- 🤖 Production AI Applications
+- ☁️ AWS & Distributed Systems
 
 ---
 
-### 🚀 Featured Projects
+# 💼 Open Source Contributions
 
-#### 🔹 [⚔️ CodeBattle](https://github.com/SanketJadhav31/CodeBattle)
-> **Real-time Competitive Programming Platform** built with React, Node.js, Socket.io, Redis, and Docker  
-> 💡 Supports multi-language code execution and real-time challenges.
+## 🚀 P4 Language Foundation
 
-#### 🔹 [🌿 WildGuard](https://github.com/anuragverma108/WildGuard)
-> Hacktoberfest 2024 Project for wildlife protection & monitoring using AI  
+### ✔ PI Repository
 
-#### 🔹 [📊 GSoC 2025 - Beehive](https://github.com/SanketJadhav31/gsoc-2025)
-> Data Federation & Behavioral Health Metrics Visualization  
+- Merged high-impact production fix for direct resource validation.
+- Added regression tests for runtime validation.
+- Improved table configuration validation logic.
+
+### ✔ P4 Compiler (p4c)
+
+- Improved compiler handling of untyped `{#}` literals.
+- Added compiler validation improvements.
+
+### ✔ Behavioral Model
+
+- Added defensive bounds validation.
+- Prevented invalid device access.
+- Improved runtime reliability.
 
 ---
 
-### 📈 GitHub Analytics
+# 🚀 Featured Projects
+
+## ⚔️ CodeBattle
+
+> **Real-time Competitive Programming Platform**
+
+**Tech**
+
+`React` • `Node.js` • `Redis` • `Socket.IO` • `MongoDB` • `Docker` • `AWS`
+
+### Highlights
+
+- 🚀 2000+ concurrent users
+- ⚡ Live Coding Battles
+- 🏆 ELO Matchmaking
+- 💻 Online Code Execution
+- 🔥 Redis Pub/Sub
+- 🌐 WebSockets
+
+---
+
+## 📄 DocMind
+
+> **Production-ready RAG PDF Intelligence**
+
+**Tech**
+
+`FastAPI` • `Qdrant` • `Redis` • `MongoDB` • `Gemini`
+
+### Highlights
+
+- 📄 PDF Question Answering
+- 🔍 Semantic Search
+- ⚡ Redis Caching
+- 🧠 Hybrid Retrieval
+- 📚 Vector Embeddings
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+
+</p>
+
+### ⚙ Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+</p>
+
+### 🗄 Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+### ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+</p>
+
+### 🤖 AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanketJadhav31&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketJadhav31&theme=tokyonight&hide_border=true" height="160px"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketJadhav31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketJadhav31&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketJadhav31&theme=react-dark&bg_color=1a1b27&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanketJadhav31&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🌐 Connect with Me
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanket-jadhav-625861312"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:sj546400@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=gmail" /></a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SanketJadhav31&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SanketJadhav31/SanketJadhav31/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** To display the contribution snake, create the GitHub Action from  
+> https://github.com/Platane/snk
+
+---
+
+# 🏅 Achievements
+
+- 🚀 Multiple merged Pull Requests in the **P4 Language Foundation**
+- ⚡ Production backend systems deployed on **AWS**
+- 🤖 Built scalable **RAG & LLM-powered AI applications**
+- 🧠 Solved **300+ LeetCode Problems**
+- 🌍 Active Open Source Contributor
+
+---
+
+# 📌 Currently Learning
+
+- ☁️ AWS Cloud Architecture
+- ⚡ Distributed Systems
+- 🤖 AI Infrastructure
+- 📦 Kubernetes
+- 🔥 System Design
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-jadhav-625861312">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sj546400@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Build systems that scale. Contribute code that lasts."**
+
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ “Code. Build. Deploy. Repeat.” ⭐</b>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
+
 </p>
