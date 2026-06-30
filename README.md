@@ -10,7 +10,7 @@ Open Source Contributor • AI/ML Developer • Backend Engineer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI%2FML+Developer;Open+Source+Contributor;Distributed+Systems+Enthusiast;Building+Production+Scale+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;AI%2FML+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Building+Production+Scale+Applications" />
 
 </p>
 
@@ -202,23 +202,6 @@ Contributing to large-scale open source projects by improving compiler behavior,
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SanketJadhav31&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SanketJadhav31/SanketJadhav31/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 > **Note:** To display the contribution snake, create the GitHub Action from  
 > https://github.com/Platane/snk
