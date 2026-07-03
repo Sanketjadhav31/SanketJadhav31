@@ -223,7 +223,6 @@ Contributing to large-scale open source projects by improving compiler behavior,
 - ☁️ AWS Cloud Architecture
 - ⚡ Distributed Systems
 - 🤖 AI Infrastructure
-- 📦 Kubernetes
 - 🔥 System Design
 
 ---
