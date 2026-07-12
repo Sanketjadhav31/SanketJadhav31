@@ -210,7 +210,6 @@ Contributing to large-scale open source projects by improving compiler behavior,
 
 # 🏅 Achievements
 
-- 🚀 Multiple merged Pull Requests in the **P4 Language Foundation**
 - ⚡ Production backend systems deployed on **AWS**
 - 🤖 Built scalable **RAG & LLM-powered AI applications**
 - 🧠 Solved **300+ LeetCode Problems**
