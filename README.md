@@ -51,7 +51,6 @@ Open Source Contributor • AI/ML Developer • Backend Engineer
 # 🚀 Current Focus
 
 - ⚔️ Building **CodeBattle**
-- 🌍 Contributing to **P4 Language Foundation**
 - 🤖 Production AI Applications
 - ☁️ AWS & Distributed Systems
 
